@@ -1,2 +1,2 @@
 # devops-practise
-new rep
+new repository
