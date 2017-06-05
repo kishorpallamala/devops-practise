@@ -3,7 +3,7 @@ monday changes from remote to local rep
 new repository
 changes done by branch1
 git changes from local repository to remote repository............
-git bash practise
+git bash practise......push conflicts
 
 
 
