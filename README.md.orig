@@ -1,13 +1,12 @@
-wednesday changes
-# devops-practise
-new repository
-changes done by branch1
-git changes from local repository to remote repository
-
+monday changes from remote to local repository
 <<<<<<< HEAD
-
+# devops-practise
 =======
+# devops-practise 
 >>>>>>> refs/remotes/origin/master
+
+
+
 
 
 
