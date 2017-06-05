@@ -1,5 +1,5 @@
-monday changes from remote to local rep
-# devops-practise
+monday changes from remote to local repository
+# devops-practise 
 
 
 
