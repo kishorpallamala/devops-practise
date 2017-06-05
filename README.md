@@ -1,4 +1,4 @@
-monday  changes
+monday changes from remote to local rep
 # devops-practise
 new repository
 changes done by branch1
