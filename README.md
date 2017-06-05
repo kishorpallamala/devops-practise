@@ -1,4 +1,4 @@
-monday changes from remote to local repository
+monday changes from remote to local repository...
 # devops-practise 
 
 
