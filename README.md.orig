@@ -1,8 +1,13 @@
-monday changes from remote to local repository
-<<<<<<< HEAD
+sunday changes from remote rep
 # devops-practise
+changes in newbranch 
+<<<<<<< HEAD
+undoing,unstaging,uncommmiting........
+push option
 =======
-# devops-practise 
+undoing,unstaging,uncommmiting.
+fetch option esting
+
 >>>>>>> refs/remotes/origin/master
 
 
